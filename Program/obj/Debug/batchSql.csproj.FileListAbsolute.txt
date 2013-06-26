@@ -1,0 +1,16 @@
+F:\项目\batchSql\batchSql\batchSql\bin\Debug\batchSql.exe
+F:\项目\batchSql\batchSql\batchSql\bin\Debug\batchSql.pdb
+F:\项目\batchSql\batchSql\batchSql\obj\Debug\batchSql.csprojResolveAssemblyReference.cache
+F:\项目\batchSql\batchSql\batchSql\obj\Debug\batchSql.Properties.Resources.resources
+F:\项目\batchSql\batchSql\batchSql\obj\Debug\batchSql.csproj.GenerateResource.Cache
+F:\项目\batchSql\batchSql\batchSql\obj\Debug\batchSql.exe
+F:\项目\batchSql\batchSql\batchSql\obj\Debug\batchSql.pdb
+F:\项目\batchSql\batchSql\batchSql\obj\Debug\batchSql.batchSql.resources
+F:\项目\batchExecSqlFiles\batchSql\batchSql\obj\Debug\batchSql.exe
+F:\项目\batchExecSqlFiles\batchSql\batchSql\obj\Debug\batchSql.pdb
+F:\项目\batchExecSqlFiles\batchSql\batchSql\bin\Debug\batchSql.exe
+F:\项目\batchExecSqlFiles\batchSql\batchSql\bin\Debug\batchSql.pdb
+F:\项目\batchExecSqlFiles\batchSql\batchSql\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\batchExecSqlFiles\batchSql\batchSql\obj\Debug\batchSql.batchSql.resources
+F:\项目\batchExecSqlFiles\batchSql\batchSql\obj\Debug\batchSql.Properties.Resources.resources
+F:\项目\batchExecSqlFiles\batchSql\batchSql\obj\Debug\batchSql.csproj.GenerateResource.Cache
